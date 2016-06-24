@@ -1,0 +1,10 @@
+{
+"serial_port":[
+{"serial_number":"ttyS0"},
+{"serial_number":"ttyS4"},
+{"serial_number":"ttyACM0"}
+]
+,
+"bitrate":"9600"
+
+}
